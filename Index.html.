@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contaminación en Panamá</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #2c3e50;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        main {
+            padding: 20px;
+        }
+        h1, h2 {
+            color: #2980b9;
+        }
+        ul {
+            list-style-type: square;
+        }
+        footer {
+            background-color: #2c3e50;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Contaminación de la Basura y el Agua en Panamá</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>La Problemática de la Contaminación en Panamá</h2>
+            <p>Panamá enfrenta serios problemas de contaminación debido a la mala gestión de residuos sólidos y la contaminación de los cuerpos de agua. Los ríos y playas son los más afectados, y esto tiene consecuencias negativas tanto para el medio ambiente como para la salud de las personas.</p>
+        </section>
+
+        <section>
+            <h2>Causas de la Contaminación</h2>
+            <ul>
+                <li>Vertido de residuos sólidos en lugares inadecuados.</li>
+                <li>Falta de tratamiento de aguas residuales.</li>
+                <li>Uso excesivo de plásticos y productos no biodegradables.</li>
+                <li>Desconocimiento y falta de educación ambiental.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Impactos en el Medio Ambiente</h2>
+            <p>La contaminación de la basura y el agua en Panamá tiene efectos devastadores en la biodiversidad, contamina los recursos hídricos, y afecta el turismo y las actividades económicas. También contribuye al cambio climático y la degradación de los ecosistemas.</p>
+        </section>
+
+        <section>
+            <h2>Soluciones para Reducir la Contaminación</h2>
+            <ul>
+                <li><strong>Reciclaje y gestión de residuos:</strong> Fomentar el reciclaje y la clasificación de residuos en los hogares y empresas.</li>
+                <li><strong>Reducción del uso de plásticos:</strong> Promover el uso de productos reutilizables y biodegradables.</li>
+                <li><strong>Educación ambiental:</strong> Realizar campañas para crear conciencia sobre la importancia de cuidar el medio ambiente.</li>
+                <li><strong>Limpieza de playas y ríos:</strong> Organizar jornadas de limpieza en las áreas más afectadas.</li>
+                <li><strong>Tratamiento de aguas residuales:</strong> Mejorar las infraestructuras para el tratamiento de aguas y evitar que lleguen contaminadas a los ríos y mares.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Código QR</h2>
+            <p>Escanea el código QR para más información o comparte este sitio web:</p>
+            <img src="ruta/a/tu/qr-code.png" alt="Código QR para la página web">
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Conciencia Ambiental Panamá</p>
+    </footer>
+</body>
+</html>
